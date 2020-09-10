@@ -5,3 +5,4 @@ if number != 0:
         f = f*i
 
 print("Factorial:",f)
+
